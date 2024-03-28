@@ -11,11 +11,5 @@ public class Var2 {
 
         // 만약 0을 출력하는 것이 아닌 20을 출력 ?
         // 변수의 저장한 값을 20으로 변경 a = 10 -> a = 20
-
-        String str1 = "노수현";
-        String str2 = "노수현";
-
-        if (str1 == str2) {
-        }
     }
 }
